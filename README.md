@@ -4,14 +4,14 @@ An intelligent command-line chat application powered by Google's Gemini AI with 
 
 # ✨ Features
 
-· 🧠 Full Context Support - The AI remembers your entire conversation
-· 💾 Save & Load - Save conversations as JSON files and load them later
-· 📊 Statistics - Track message count, character count, and more
-· 📁 Organized Storage - Conversations saved in a dedicated conversations/ folder
-· 🔑 Persistent API Key - Save your API key for future sessions
-· 🎨 Clean Interface - Simple, intuitive command-line interface
-· 📱 Cross-Platform - Works on Android (Termux), Linux, macOS, and Windows
-· 🛡️ Error Handling - Clear error messages and graceful recovery
+ - 🧠 Full Context Support - The AI remembers your entire conversation
+ - 💾 Save & Load - Save conversations as JSON files and load them later
+ - 📊 Statistics - Track message count, character count, and more
+ - 📁 Organized Storage - Conversations saved in a dedicated conversations/ folder
+ - 🔑 Persistent API Key - Save your API key for future sessions
+ - 🎨 Clean Interface - Simple, intuitive command-line interface
+ - 📱 Cross-Platform - Works on Android (Termux), Linux, macOS, and Windows
+ - 🛡️ Error Handling - Clear error messages and graceful recovery
 
 # 📋 Requirements
 
@@ -29,7 +29,7 @@ An intelligent command-line chat application powered by Google's Gemini AI with 
    · Copy your API key
 2. Clone or download this project:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/omar-haidar/gemini-chat-app.git
    cd gemini-chat-app
    ```
    Or download and extract the ZIP file.
