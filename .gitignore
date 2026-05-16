@@ -1,0 +1,6 @@
+#conversations
+/conversations/
+#cache
+/__pycache__/
+#settings
+settings.txt
