@@ -158,19 +158,18 @@ First Run
 
 On first run, you'll be prompted to enter your Google AI Studio API key. You can choose to save it for future sessions.
 
-Commands
+# Commands
 
-Command Description
-/help Show available commands
-/clear Clear conversation context
-/save Save current conversation
-/load Load a previous conversation
-/list List all saved conversations
-/stats Show conversation statistics
-/context Show current conversation context
-/exit Exit the application
+ - /help Show available commands
+ - /clear Clear conversation context
+ - /save Save current conversation
+ - /load Load a previous conversation
+ - /list List all saved conversations
+ - /stats Show conversation statistics
+ - /context Show current conversation context
+ - /exit Exit the application
 
-Example Session
+# Example Session
 
 ```
 🤖 Gemini Chat Application
