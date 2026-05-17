@@ -100,9 +100,10 @@ Note for Android users:
   ```bash
   termux-setup-storage
   ```
-- A cryptography error may appear when installing on Termux. This error occurs because the cryptography library needs a Rust compiler and some components are compiled, and this is not fully supported in Termux on Android.
+- A `cryptography` error may appear when installing on Termux. This error occurs because the cryptography library needs a `Rust compiler` and some components are compiled, and this is not fully supported in Termux on Android.
 
-The solution is to install the missing packages.
+### The solution is to install the missing packages.
+
  ```bash
  # تحديث الحزم الأساسية
 pkg update && pkg upgrade -y
